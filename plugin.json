@@ -1,0 +1,10 @@
+{
+    "id": "btekno/cookie-consent",
+    "name": "Cookie Consent",
+    "namespace": "Btekno\\CookieConsent\\",
+    "provider": "Btekno\\CookieConsent\\Providers\\CookieConsentServiceProvider",
+    "author": "Novianto Rahmadi",
+    "url": "https://novay.web.id",
+    "version": "1.0.0",
+    "description": "Enable Cookie Consent for your homepage."
+}
